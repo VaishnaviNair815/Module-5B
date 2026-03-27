@@ -1,5 +1,5 @@
 # NumPy Program: Column-wise Sorting of a 2D Array
-## NAME: S MANO SUSHMITHA
+## NAME: VAISHNAVI R NAIR 
 ## REGISTER NUMBER: 212224110058
 
 ## 🎯 Aim
